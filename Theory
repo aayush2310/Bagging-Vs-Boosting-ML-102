@@ -1,0 +1,8 @@
+1)Type of Model Used:-To achieve LB,LV there are 3 methods-Regularization,Bagging,Boosting
+                      In bagging we take ML models having LB,HV like a fully grown decision tree
+                      In boosting we take ML models having HB,LV like a decision stump.
+
+2)Sequential Vs Parallel Learning:-In bagging the training of models take place parallely.In boosting it is sequential learning i.e model 1 is trained first then it gives 
+its error to model 2 and so on.
+
+3)Weightage of Base learners:-In bagging weitage is equal but in boosting it is not.
